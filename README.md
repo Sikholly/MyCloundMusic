@@ -14,6 +14,4 @@ npm run serve
 ```
 npm run build
 ```
-#### cs123
-class="SmallLabel ? 设置宽高
 
